@@ -20,7 +20,7 @@ print(a.transpose())
 z = np.arange(0, 20, 2)
 
 print(z)
-
+print(z.reshape(2, 5))
 h = np.arange(15)
 
 print(h)
